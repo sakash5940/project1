@@ -1,0 +1,160 @@
+.akash{
+    margin-top:2em;
+    margin-left: 24em;
+}
+.a{
+background-color: rgb(6, 6, 46);
+width: 290px;
+height: 495px;
+text-align: center;
+padding: 30px;
+color: white;
+position: relative ;
+left: 28%;
+top: -36em;
+opacity: 0.9;
+
+
+}
+.b{
+    position: relative;
+    top: -38em;
+    left: 40%;
+    display: inline;
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    border: 1px solid black;
+}
+.c{
+    width: 350px;
+    height: 555px;
+    background-color: white;
+    position: relative;
+    top: -73em;
+    left: 50em;
+    text-align: center;
+    color: rgb(26, 26, 187);
+    margin-left: -10px;
+
+
+}
+.d{
+    position: relative;
+    top: -95em;
+    left: 50em;
+}
+.d img{
+    width: 150px;
+    height: 100px;
+    border-bottom: 15px solid gray;
+    border-right: 15px solid gray;
+}
+.e{
+    position: relative;
+    top: -100em;
+    left: 61em;
+
+}
+.e img{
+    width: 150px;
+    height: 100px;
+    border-top: 15px solid palevioletred;
+    border-left: 15px solid palevioletred;
+
+}
+.f{
+    position: relative;
+    top: -100em;
+    left: 50em;
+}
+.f img{
+    width: 150px;
+    height: 100px;
+border-left: 15px solid palevioletred;
+border-bottom: 15px solid palevioletred;
+}
+.g{
+    position: relative;
+    top: -105em;
+    left: 61em;
+}
+.g img{
+width: 150 px;
+height: 100px;
+border-top: 15px solid gray;
+border-left: 15px solid gray;
+}
+.h{
+    position: relative;
+    top: -102em;
+    left: 24em;
+}
+.i{
+background-color: rgb(6, 6, 58);
+width: 355px;
+height: 595px;
+position: relative;
+top: -146em;
+left: 27em;
+text-align: center;
+align-content: flex-end;
+color: white;
+margin-top: -13px;
+margin-left: 7px ;
+opacity: 0.8;
+}
+.j{
+    width: 350px;
+    height: 600px;
+    background-color: white;
+    position: relative;
+    top: -183em;
+    left: 50em;
+    margin-left: -9px;
+    margin-top: -2px;
+}
+
+.k{
+    width: 652px;
+    height: 150px;
+    background-color: crimson;
+    position: relative;
+    top: -218em;
+    left: 30em;
+    text-align: center;
+    
+}
+.l{
+    width: 600px;
+    height: 250px;
+    background-color:white;
+    position: relative;
+    top: -225em;
+    left: 32em;
+    display: flex;
+   justify-content:center;
+   gap: 5%;
+}
+.l div{
+    width: 25%;
+}
+.l ion-icon{
+    margin-top: 20px;
+    font-size: 45px;
+
+}
+.m{
+    position: relative;
+    top: -220em;
+    left: 53em;
+}
+.n{
+    position: relative;
+    top: -218em;
+    left: 63em;
+
+}
+.n button{
+    background-color: rgb(206, 15, 133);
+}
